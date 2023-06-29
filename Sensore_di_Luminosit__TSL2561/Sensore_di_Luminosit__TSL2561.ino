@@ -1,3 +1,5 @@
+/*This is a program i made back in 2022 in my High School with the help of one of my class mates (A. Parrino) and the help of my teacher @Andix91. The program features
+a Light sensor used within the Arduino community.*/
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_TSL2561_U.h>
